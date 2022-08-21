@@ -1,4 +1,4 @@
-# trash-compactor
+# Trash-compactor
 
 
 -This project is working prototype of a solar powered receptacle and trash compactor for minimizing the over spill of waste in the bin. 
